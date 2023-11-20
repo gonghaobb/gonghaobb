@@ -10,4 +10,4 @@
 ### **社交主页：**
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://space.bilibili.com/361049136"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：Bilibil个人主义，分享独立开发的Demo
+-   <a href="https://space.bilibili.com/361049136"><code><img height="20" width="50" src="./images/bilibil.png"></code></a>：Bilibil个人主义，分享独立开发的Demo
