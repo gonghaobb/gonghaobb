@@ -8,6 +8,6 @@
 热爱拓展现实开发、热爱虚拟现实混合现实体验、热爱技术。五年相关工作经。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
-
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-![top_logo](https://github.com/gonghaobb/gonghaobb/assets/58296311/2428062a-a5cd-434c-8ec6-593f59488cab) https://space.bilibili.com/361049136
+
+-   <a href="https://space.bilibili.com/361049136"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：Bilibil个人主义，分享独立开发的Demo
