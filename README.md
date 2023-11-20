@@ -1,12 +1,5 @@
 #### 个人信息
-
-
-
 ![github](https://github.com/gonghaobb/gonghaobb/assets/58296311/7b07f75b-00dc-4d6c-aa39-3e5c68c8a764)
-![csdn](https://github.![top_logo](https://github.com/gonghaobb/gonghaobb/assets/58296311/b12ac7da-70a4-4489-8f77-1fc8f5f0b481)
-com/gonghaobb/gonghaobb/assets/58296311/4915c75f-5ec8-4372-98a6-efdf59787e46)
-
-
 
 <img align="right" src="https://count.getloli.com/get/@:gonghaobb?theme=rule34">
 
@@ -17,3 +10,4 @@ com/gonghaobb/gonghaobb/assets/58296311/4915c75f-5ec8-4372-98a6-efdf59787e46)
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+![top_logo](https://github.com/gonghaobb/gonghaobb/assets/58296311/2428062a-a5cd-434c-8ec6-593f59488cab) https://space.bilibili.com/361049136
