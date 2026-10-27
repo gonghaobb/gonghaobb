@@ -3,9 +3,12 @@
 
 <img align="right" src="https://count.getloli.com/get/@:gonghaobb?theme=rule34">
 
-## Unity3d开发工程师—巩浩
+## XR开发者—巩浩
 
-热爱拓展现实开发、热爱虚拟现实混合现实体验、热爱技术。五年相关工作经。喜欢参与一些开源项目的讨论。
+热爱拓展现实开发、热爱虚拟现实混合现实体验、热爱技术。
+
+##糖果派对 - 作者
+开发多款XR多人合作（社交）类型游戏（应用）
 
 ### **社交主页：**
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
